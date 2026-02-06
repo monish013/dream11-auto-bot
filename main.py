@@ -4,7 +4,7 @@ import time
 import re
 
 BOT_TOKEN = "8501622733:AAFwle-4vd_qPupGrj-xboKwgoa2iBGhurM"
-CHAT_ID = "1003800184960"
+CHAT_ID = "-1003800184960"
 
 def send(msg):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
